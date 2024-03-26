@@ -1,5 +1,5 @@
 {
-    "name": "swagger-generate",
+    "name": "ng-services-generate",
     "version": "1.0.1",
     "description": "interfaces and services generator",
     "main": "./bin/index.js",
@@ -8,7 +8,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/jmalicdem45/swagger-generate.git"
+      "url": "git+https://github.com/jmalicdem45/angular-services-generator.git"
     },
     "keywords": [
       "interfaces",
@@ -20,12 +20,12 @@
     "author": "Jeremiah Malicdem",
     "license": "ISC",
     "bin": {
-      "sg": "./bin/index.js"
+      "asg": "./bin/index.js"
     },
     "bugs": {
-      "url": "https://github.com/jmalicdem45/swagger-generate/issues"
+      "url": "https://github.com/jmalicdem45/angular-services-generator/issues"
     },
-    "homepage": "https://github.com/jmalicdem45/swagger-generate#readme",
+    "homepage": "https://github.com/jmalicdem45/angular-services-generator#readme",
     "dependencies": {
       "boxen": "^5.0.1",
       "chalk": "^2.4.2",
